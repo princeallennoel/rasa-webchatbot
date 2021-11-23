@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.rw-conversation-container .rw-header {
+  background-color: #f5360d;
+}
+
+.rw-conversation-container .rw-client {
+  background-color: #f5360d !important;
+}
+.conversation-container close-button {
+  background-color: #f5360d;
+}
+
+.rw-launcher {
+  background-color: #f5360d;
+}
